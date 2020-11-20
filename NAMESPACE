@@ -1,0 +1,15 @@
+
+importFrom(Rsolnp, solnp)
+importFrom(corpcor, make.positive.definite)
+importFrom(MASS, mvrnorm)
+importFrom("stats", "var", "cov")
+
+export(expit)
+export(fxnCC_LogReg)
+export(fxnCC_LinReg)
+export(asympVar_LogReg)
+export(asympVar_LinReg)
+export(get_gamma_EB)
+export(get_var_EB)
+export(get_OCW)
+export(get_SCLearner)

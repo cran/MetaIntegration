@@ -1,0 +1,16 @@
+903f7c7f7c62a15b8595cf1376392a27 *DESCRIPTION
+563e8569076cf493b12c294d56240597 *NAMESPACE
+56442196b4165a608cacd18874eef9de *R/Rpackage_Tian.R
+d0a958b08291e2ebb0d8a95cc296774c *R/data.R
+8492708af49d1bef32de36406c2343fe *README.md
+ff1314fce279552de30aa8a43d4314b0 *data/covid19.rda
+07667ba34a94ab90ef6c381baaa11db2 *man/asympVar_LinReg.Rd
+747e9110dca0c3fd1b86f4bfa4a9be5b *man/asympVar_LogReg.Rd
+f45d346a394183c990ba7bbbae43dc3c *man/covid19.Rd
+7d39e69fcde119d52af3f0e3bd463911 *man/expit.Rd
+7a70abf4b7498953ef6b72941ff1c5e4 *man/fxnCC_LinReg.Rd
+8e0c9cd0a4429912acb83f46c0a63c8a *man/fxnCC_LogReg.Rd
+30aa8ccf355d63fdead4834ed732ab6e *man/get_OCW.Rd
+2667bc0c7af2200bd6679ad1867b9670 *man/get_SCLearner.Rd
+ef676e0392be0541ed215194971b3744 *man/get_gamma_EB.Rd
+fed36f140b7f1f2e5bde1b8bf2e775ba *man/get_var_EB.Rd
